@@ -308,9 +308,9 @@ void RPCConsole::clear()
                 "b { color: #006060; } "
                 );
 
-    message(CMD_REPLY, (tr("Welcome to the Litecoin RPC console.") + "<br>" +
-                        tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
-                        tr("Type <b>help</b> for an overview of available commands.")), true);
+    message(CMD_REPLY, (tr("Ahoy t' th' Noodlyappendagecoin RPC console.") + "<br>" +
+                        tr("Use up 'n down arrows t' navigate history, 'n <b>Ctrl-L</b> t' clear screen.") + "<br>" +
+                        tr("Type <b>help</b> fer an o'erview o' available commands.")), true);
 }
 
 void RPCConsole::message(int category, const QString &message, bool html)
