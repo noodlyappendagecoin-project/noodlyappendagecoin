@@ -1,5 +1,5 @@
 Noodlyappendagecoin integration/staging tree
-===========================================
+============================================
 
 http://github.com/noodlyappendagecoin-project/noodlyappendagecoin
 
@@ -8,7 +8,7 @@ Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2014-2017 Noodlyappendagecoin Developers
 
 What is Noodlyappendagecoin?
----------------------------
+----------------------------
 
 Noodlyappendagecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
