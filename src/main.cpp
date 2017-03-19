@@ -20,7 +20,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Litecoin cannot be compiled without assertions."
+# error "Noodlyappendagecoin cannot be compiled without assertions."
 #endif
 
 //
