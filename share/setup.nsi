@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 0.8.6.1
+!define VERSION 0.8.7.5
 !define COMPANY "Noodlyappendagecoin project"
 !define URL http://www.noodlyappendagecoin.org/
 
@@ -45,13 +45,13 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile noodlyappendagecoin-0.8.6.1-win32-setup.exe
+OutFile noodlyappendagecoin-${VERSION}-win32-setup.exe
 InstallDir $PROGRAMFILES\Noodlyappendagecoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
-VIProductVersion 0.8.6.1
+VIProductVersion ${VERSION}
 VIAddVersionKey ProductName Noodlyappendagecoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"

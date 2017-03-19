@@ -3,8 +3,8 @@ Noodlyappendagecoin integration/staging tree
 
 http://github.com/noodlyappendagecoin-project/noodlyappendagecoin
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2014-2017 Noodlyappendagecoin Developers
 
 What is Noodlyappendagecoin?
@@ -36,8 +36,7 @@ If it is a simple/trivial/non-controversial change, then one of the Noodlyappend
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development).
+submitter will be asked to start a discussion with the devs and community.
 
 The patch will be accepted if there is broad consensus that it is a good thing.
 Developers should expect to rework and resubmit patches if the code doesn't
@@ -45,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+completely stable. [Tags](https://github.com/noodlyappendagecoin-project/noodlyappendagecoin/tags) are created
 regularly to indicate new official, stable release versions of Noodlyappendagecoin.
 
 Testing
