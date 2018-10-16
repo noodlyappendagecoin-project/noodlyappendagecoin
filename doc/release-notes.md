@@ -1,3 +1,9 @@
+0.8.6.2 changes
+===============
+
+- Changed Network ID
+- Removed Legacy Seeds
+
 0.8.6.1 changes
 =============
 
